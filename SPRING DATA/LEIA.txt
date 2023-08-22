@@ -1,0 +1,2 @@
+Tentei fazer 2 testes, um com Spring Framework e outro com java puro, porém não tive tempo para ambos.
+Segue aqui o esqueleto do projeto com Spring mesmo ele estando incompleto apenas para título de curiosidade.
