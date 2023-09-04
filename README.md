@@ -43,7 +43,7 @@ Normalmente quando lidamos com dinheiro usamos a classe <em>BigDecimal</em> e n�
 </br>
 É uma boa prática a utilização de <em>Enums</em> para deixar o código mais legível e seria recomendável sua utilização nos switches do arquivo <em>Main</em>.</br>
 </br>
-A classe <em>Usuário</em> deveria ser uma herança para as classes <em>Cliente</em> e <em>Empresa/<em> já que ela contém código que ambas as classes reaproveitam e apenas conter um <em>Enum</em> explicitando a qual delas pertencem.</br>
+A classe <em>Usuário</em> deveria ser uma herança para as classes <em>Cliente</em> e <em>Empresa</em> já que ela contém código que ambas as classes reaproveitam e apenas conter um <em>Enum</em> explicitando a qual delas pertencem.</br>
 
 <h3> Erros de Estrutura de dados</h3>
 Não há verificação para conferir se os valores de ID são repetidos assim como não há verificação em relação a nulidade de valores importantes para o funcionamento das classes.</br>
